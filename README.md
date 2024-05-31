@@ -1,2 +1,2 @@
-# python-projet
-özel python projetleri
+# python-D jango-MyQt5-projet
+özel projetler
